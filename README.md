@@ -1,4 +1,4 @@
-# Robinplate
+# jb-boiler
 
 ## Available Scripts
 

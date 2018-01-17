@@ -11,6 +11,8 @@
     "file-loader": "^1.1.6",
     "gh-pages": "1.0.0",
     "image-webpack-loader": "^3.4.2",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6",
     "webpack": "^3.10.0"
   },
   "scripts": {
