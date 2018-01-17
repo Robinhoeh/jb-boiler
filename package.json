@@ -1,0 +1,22 @@
+{
+  "name": "Robinhoeh",
+  "version": "0.1.0",
+  "homepage": "http://robinhoeh.github.io/jb-boiler",
+  "private": true,
+  "dependencies": {
+    "react-scripts": "1.0.14"
+  },
+  "devDependencies": {
+    "file-loader": "^1.1.6",
+    "gh-pages": "1.0.0",
+    "image-webpack-loader": "^3.4.2",
+    "webpack": "^3.10.0"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom"
+  }
+}
